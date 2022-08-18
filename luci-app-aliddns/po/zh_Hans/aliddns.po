@@ -29,7 +29,7 @@ msgid "Sub Domain"
 msgstr "子域名"
 
 msgid "For example: test.github.com -> github.com"
-msgstr "例如: test.github.com，则填: github.com"
+msgstr "例如: test.github.com, 则填: github.com"
 
 msgid "For example: test.github.com -> test"
 msgstr "例如: test.github.com, 则填: test"

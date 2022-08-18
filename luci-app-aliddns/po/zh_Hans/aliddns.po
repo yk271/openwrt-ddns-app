@@ -2,7 +2,7 @@ msgid ""
 msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "AliDDNS"
-msgstr "阿里 DDNS"
+msgstr "阿里云 DDNS"
 
 msgid "enable"
 msgstr "启用"
